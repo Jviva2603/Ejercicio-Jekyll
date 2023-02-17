@@ -1,10 +1,11 @@
 ---
 layout: page
-title: About
+title: Sobre el Certificado
 permalink: /about/
 ---
+CERTIFICADO PROFESIONAL DESARROLLO APLICACIONES CON TECNOLOGÍA WEB
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Desarrollar documentos y componentes software que constituyan aplicaciones informáticas en entornos distribuidos utilizando tecnologías web, partiendo de un diseño técnico ya elaborado, realizando, además, la verificación, documentación e implantación de los mismo [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /

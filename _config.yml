@@ -26,7 +26,7 @@ baseurl: "/Ejercicio_Jekyll" # the subpath of your site, e.g. /blog
 github_username:  Jviva2603
 
 # Build settings
-remote_theme: pages-themes/architect@v0.2.0
+remote_theme: daviddarnes/garth
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
