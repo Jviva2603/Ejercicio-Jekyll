@@ -7,4 +7,6 @@ CERTIFICADO PROFESIONAL DESARROLLO APLICACIONES CON TECNOLOGÍA WEB
 
 Desarrollar documentos y componentes software que constituyan aplicaciones informáticas en entornos distribuidos utilizando tecnologías web, partiendo de un diseño técnico ya elaborado, realizando, además, la verificación, documentación e implantación de los mismo 
 
+
+
 **Puedes obtener más información en** [Pinche Aquí](https://ceat.es/certificados-profesionalidad/informatica/desarrollo)
