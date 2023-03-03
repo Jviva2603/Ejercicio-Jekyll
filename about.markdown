@@ -3,7 +3,7 @@ layout: page
 title: Sobre el Certificado
 permalink: /about/
 ---
-CERTIFICADO PROFESIONAL DESARROLLO APLICACIONES CON TECNOLOGÍA WEB
+### CERTIFICADO PROFESIONAL DESARROLLO APLICACIONES CON TECNOLOGÍA WEB
 
 ![certificado]({{site.baseurl}}/assets/certificado-gobierno.jpg){:class="img-responsive"}
 
