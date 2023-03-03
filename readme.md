@@ -1,0 +1,1 @@
+Para poder crear primero el tema remoto tenemos que buscar uno que nos guste de 

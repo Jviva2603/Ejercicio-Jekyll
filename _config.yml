@@ -22,7 +22,7 @@ title: Web realizada con Jekyll
 email: Jviva2603@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Esta web ha sido realizada mediante Jekyll para un ejercicio del Certificado Profesional de desarrollo con tecnología web
-baseurl: "/Ejercicio_Jekyll" # the subpath of your site, e.g. /blog
+baseurl: "/Ejercicio-Jekyll" # the subpath of your site, e.g. /blog
 github_username:  Jviva2603
 
 # Build settings
